@@ -1,0 +1,6 @@
+[submodule "rapdev2015-app"]
+	path = rapdev2015-app
+	url = https://github.com/rit-sse/rapdev2015-app.git
+[submodule "rapdev2015-api"]
+	path = rapdev2015-api
+	url = https://github.com/rit-sse/rapdev2015-api.git
